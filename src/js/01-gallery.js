@@ -1,5 +1,5 @@
-import SimpleLightbox from "simpleLightBox";
-import "simpleLightBox/dist/simple-lightbox.min.css";
+import SimpleLightbox from "simplelightbox";
+import "simplelightbnpm install simplelightboxox/dist/simple-lightbox.min.css";
 import { galleryItems } from './gallery-items';
 
 const gallery = document.querySelector('.gallery')
